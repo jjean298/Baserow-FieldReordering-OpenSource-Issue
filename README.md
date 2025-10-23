@@ -1,6 +1,6 @@
 # 🧩 Baserow Open Source Contribution (In Progress)
 
-**Project:** [Baserow](https://gitlab.com/bramw/baserow)  
+**Project:** [Baserow](https://gitlab.com/baserow)  
 **Issue:** [#3723 ](https://gitlab.com/baserow/baserow/-/issues/3723) - Editors are able to trigger the api call to change the order of fields \
 **Status:** In Progress  
 **Team:** Baserow B x FIU Tech Talent Academy  
@@ -32,4 +32,4 @@ The issue affects the **field reordering feature**, where users with Editor or l
 - Conduct QA testing across roles (Admin, Editor, Viewer).
 
 ## 🧾 References
-- 🔗 [Baserow GitLab Repository](https://gitlab.com/jjean298/baserow/))  
+- 🔗 [Baserow GitLab Repository](https://gitlab.com/jjean298/baserow/) 
