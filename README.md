@@ -10,6 +10,9 @@
 Collaborating with a team to debug and implement a fix in Baserow, an open-source no-code database built with **Django**, **Vue.js**, and **PostgreSQL**.  
 The issue affects the **field reordering feature**, where users with Editor or lower permissions receive unclear error messages instead of proper authorization feedback.
 
+## Tech Stack 
+Python, Vue, JavaScript, SCSS, HTML, Shell, etc.
+
 ## ⚙️ Work Completed So Far
 - Reproduced the bug using Docker Compose and local environment setup.  
 - Investigated **Vuex store**, **API request flow**, and **Django permission logic**.  
